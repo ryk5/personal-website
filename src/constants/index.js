@@ -89,7 +89,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing a little glimpse into my life and my passions.",
     technologies: ["React", "Tailwind CSS", "Vite"],
-    link: "https://github.com/ryk5/Train-Routes-Graph-Search"
+    link: "https://github.com/ryk5/personal-website"
   },
 ];
 
